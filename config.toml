@@ -1,0 +1,83 @@
+[__config__]
+oldver = "old_ver.json"
+newver = "new_ver.json"
+
+[python-feeluown]
+source = "github"
+github = "feeluown/FeelUOwn"
+use_latest_release = true
+proxy = "http://localhost:7890"
+http_timeout = 300
+
+
+[python-fuo-download]
+source = "github"
+github = "feeluown/feeluown-download"
+proxy = "http://localhost:7890"
+http_timeout = 300
+
+[python-fuo-kuwo]
+source = "pypi"
+pypi = "fuo-kuwo"
+proxy = "http://localhost:7890"
+http_timeout = 300
+
+[python-fuo-netease]
+source = "pypi"
+pypi = "fuo-netease"
+proxy = "http://localhost:7890"
+http_timeout = 300
+
+[python-fuo-qqmusic]
+source = "pypi"
+pypi = "fuo-qqmusic"
+proxy = "http://localhost:7890"
+http_timeout = 300
+
+[python-janus]
+source = "pypi"
+pypi = "janus"
+proxy = "http://localhost:7890"
+
+[python-qasync]
+source = "pypi"
+pypi = "qasync"
+proxy = "http://localhost:7890"
+
+[genymotion]
+source = "regex"
+regex = "https\\:\\/\\/dl.genymotion.com\\/releases\\/genymotion\\-(\\d+\\.\\d+\\.\\d+)\\/genymotion\\-\\d+\\.\\d+\\.\\d+\\-linux\\_x64\\.bin"
+url = "https://www.genymotion.com/product-desktop/download/#"
+proxy = "http://localhost:7890"
+
+
+[linuxqq]
+source = "cmd"
+cmd = "bash ./getlinuxqq.sh"
+
+[zotero-beta]
+source = "cmd"
+cmd = "bash ./getzotero.sh"
+
+[nali]
+source = "github"
+github = "zu1k/nali"
+use_latest_release = true
+proxy = "http://localhost:7890"
+http_timeout = 300
+
+[ttf-nerd-fonts]
+source = "github"
+github = "ryanoasis/nerd-fonts"
+use_latest_release = true
+proxy = "http://localhost:7890"
+http_timeout = 300
+
+[uxplay]
+source = "github"
+github = "FDH2/UxPlay"
+use_latest_release = true
+proxy = "http://localhost:7890"
+http_timeout = 300
+
+

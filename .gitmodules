@@ -1,0 +1,3 @@
+[submodule "nvchecker"]
+	path = nvchecker
+	url = https://github.com/lilydjwg/nvchecker

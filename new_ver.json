@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "data": {
+    "genymotion": {
+      "version": "3.7.1"
+    },
+    "linuxqq": {
+      "version": "https://qq-web.cdn-go.cn/im.qq.com_new/bb2b69d5/202408221532/linuxQQDownload.js?t=1724311979118;"
+    },
+    "nali": {
+      "version": "v0.8.1",
+      "gitref": "refs/tags/v0.8.1",
+      "url": "https://github.com/zu1k/nali/releases/tag/v0.8.1"
+    },
+    "python-feeluown": {
+      "version": "v4.1.7",
+      "gitref": "refs/tags/v4.1.7",
+      "url": "https://github.com/feeluown/FeelUOwn/releases/tag/v4.1.7"
+    },
+    "python-fuo-download": {
+      "version": "20240216.022424",
+      "revision": "0f9541cd2000f7e1f06e4e07098a256c4f04dc7b",
+      "url": "https://github.com/feeluown/feeluown-download/commit/0f9541cd2000f7e1f06e4e07098a256c4f04dc7b"
+    },
+    "python-fuo-kuwo": {
+      "version": "0.2.2",
+      "url": "https://pypi.org/project/fuo-kuwo/0.2.2/"
+    },
+    "python-fuo-netease": {
+      "version": "1.0.3",
+      "url": "https://pypi.org/project/fuo-netease/1.0.3/"
+    },
+    "python-fuo-qqmusic": {
+      "version": "1.0.5",
+      "url": "https://pypi.org/project/fuo-qqmusic/1.0.5/"
+    },
+    "python-janus": {
+      "version": "1.0.0",
+      "url": "https://pypi.org/project/janus/1.0.0/"
+    },
+    "python-qasync": {
+      "version": "0.27.1",
+      "url": "https://pypi.org/project/qasync/0.27.1/"
+    },
+    "ttf-nerd-fonts": {
+      "version": "v3.2.1",
+      "gitref": "refs/tags/v3.2.1",
+      "url": "https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1"
+    },
+    "uxplay": {
+      "version": "v1.69",
+      "gitref": "refs/tags/v1.69",
+      "url": "https://github.com/FDH2/UxPlay/releases/tag/v1.69"
+    },
+    "zotero-beta": {
+      "version": "https://download.zotero.org/client/beta/7.0.2-beta.3%2B182bfb9a3/Zotero-7.0.2-beta.3%2B182bfb9a3_linux-x86_64.tar.bz2"
+    }
+  }
+}
