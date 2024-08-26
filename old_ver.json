@@ -51,6 +51,9 @@
       "version": "v1.69",
       "gitref": "refs/tags/v1.69",
       "url": "https://github.com/FDH2/UxPlay/releases/tag/v1.69"
+    },
+    "zotero-beta": {
+      "version": "https://download.zotero.org/client/beta/7.0.2-beta.3%2B182bfb9a3/Zotero-7.0.2-beta.3%2B182bfb9a3_linux-x86_64.tar.bz2"
     }
   }
 }
