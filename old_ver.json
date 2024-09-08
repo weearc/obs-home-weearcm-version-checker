@@ -5,7 +5,7 @@
       "version": "3.7.1"
     },
     "linuxqq": {
-      "version": "https://qq-web.cdn-go.cn/im.qq.com_new/bb2b69d5/202408221532/linuxQQDownload.js?t=1724311979118;"
+      "version": "https://qq-web.cdn-go.cn/im.qq.com_new/bb2b69d5/202409041101/linuxQQDownload.js?t=1725418910063;"
     },
     "nali": {
       "version": "v0.8.1",
@@ -53,7 +53,7 @@
       "url": "https://github.com/FDH2/UxPlay/releases/tag/v1.69"
     },
     "zotero-beta": {
-      "version": "https://download.zotero.org/client/beta/7.0.2-beta.3%2B182bfb9a3/Zotero-7.0.2-beta.3%2B182bfb9a3_linux-x86_64.tar.bz2"
+      "version": "https://download.zotero.org/client/beta/7.0.4-beta.3%2B5bd5bfa34/Zotero-7.0.4-beta.3%2B5bd5bfa34_linux-x86_64.tar.bz2"
     }
   }
 }
