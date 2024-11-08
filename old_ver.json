@@ -5,7 +5,12 @@
       "version": "3.7.1"
     },
     "linuxqq": {
-      "version": "https://qq-web.cdn-go.cn/im.qq.com_new/bb2b69d5/202409041101/linuxQQDownload.js?t=1725418910063;"
+      "version": "https://qq-web.cdn-go.cn/im.qq.com_new/f0ba2273/202410111509/linuxQQDownload.js?t=1728630564367;"
+    },
+    "liteloader": {
+      "version": "1.2.2",
+      "gitref": "refs/tags/1.2.2",
+      "url": "https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/tag/1.2.2"
     },
     "nali": {
       "version": "v0.8.1",
@@ -48,12 +53,12 @@
       "url": "https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1"
     },
     "uxplay": {
-      "version": "v1.69",
-      "gitref": "refs/tags/v1.69",
-      "url": "https://github.com/FDH2/UxPlay/releases/tag/v1.69"
+      "version": "v1.70",
+      "gitref": "refs/tags/v1.70",
+      "url": "https://github.com/FDH2/UxPlay/releases/tag/v1.70"
     },
     "zotero-beta": {
-      "version": "https://download.zotero.org/client/beta/7.0.4-beta.3%2B5bd5bfa34/Zotero-7.0.4-beta.3%2B5bd5bfa34_linux-x86_64.tar.bz2"
+      "version": "https://download.zotero.org/client/beta/7.0.8-beta.2%2B237a2e5b8/Zotero-7.0.8-beta.2%2B237a2e5b8_linux-x86_64.tar.bz2"
     }
   }
 }

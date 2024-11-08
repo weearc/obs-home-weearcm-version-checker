@@ -2,10 +2,15 @@
   "version": 2,
   "data": {
     "genymotion": {
-      "version": "3.7.1"
+      "version": "3.8.0"
     },
     "linuxqq": {
-      "version": "https://qq-web.cdn-go.cn/im.qq.com_new/bb2b69d5/202409041101/linuxQQDownload.js?t=1725418910063;"
+      "version": "https://qq-web.cdn-go.cn/im.qq.com_new/17c986ba/202411041718/linuxQQDownload.js?t=1730711935429;"
+    },
+    "liteloader": {
+      "version": "1.2.3",
+      "gitref": "refs/tags/1.2.3",
+      "url": "https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/tag/1.2.3"
     },
     "nali": {
       "version": "v0.8.1",
@@ -35,8 +40,8 @@
       "url": "https://pypi.org/project/fuo-qqmusic/1.0.5/"
     },
     "python-janus": {
-      "version": "1.0.0",
-      "url": "https://pypi.org/project/janus/1.0.0/"
+      "version": "1.1.0",
+      "url": "https://pypi.org/project/janus/1.1.0/"
     },
     "python-qasync": {
       "version": "0.27.1",
@@ -48,12 +53,12 @@
       "url": "https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1"
     },
     "uxplay": {
-      "version": "v1.69",
-      "gitref": "refs/tags/v1.69",
-      "url": "https://github.com/FDH2/UxPlay/releases/tag/v1.69"
+      "version": "v1.70",
+      "gitref": "refs/tags/v1.70",
+      "url": "https://github.com/FDH2/UxPlay/releases/tag/v1.70"
     },
     "zotero-beta": {
-      "version": "https://download.zotero.org/client/beta/7.0.4-beta.3%2B5bd5bfa34/Zotero-7.0.4-beta.3%2B5bd5bfa34_linux-x86_64.tar.bz2"
+      "version": "https://download.zotero.org/client/beta/7.0.9-beta.5%2Bfadbf3d2d/Zotero-7.0.9-beta.5%2Bfadbf3d2d_linux-x86_64.tar.bz2"
     }
   }
 }

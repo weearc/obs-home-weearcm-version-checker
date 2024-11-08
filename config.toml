@@ -64,7 +64,7 @@ source = "github"
 github = "zu1k/nali"
 use_latest_release = true
 proxy = "http://localhost:7890"
-http_timeout = 300
+http_timeout = 3000
 
 [ttf-nerd-fonts]
 source = "github"
@@ -80,4 +80,10 @@ use_latest_release = true
 proxy = "http://localhost:7890"
 http_timeout = 300
 
+[liteloader]
+source = "github"
+github = "LiteLoaderQQNT/LiteLoaderQQNT"
+use_latest_release = true
+proxy = "http://localhost:7890"
+http_timeout = 3000
 
